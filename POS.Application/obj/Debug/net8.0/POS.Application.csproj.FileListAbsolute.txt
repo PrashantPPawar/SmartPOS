@@ -1,0 +1,11 @@
+C:\Users\pppaw\source\repos\POS\POS.Application\bin\Debug\net8.0\POS.Application.deps.json
+C:\Users\pppaw\source\repos\POS\POS.Application\bin\Debug\net8.0\POS.Application.dll
+C:\Users\pppaw\source\repos\POS\POS.Application\bin\Debug\net8.0\POS.Application.pdb
+C:\Users\pppaw\source\repos\POS\POS.Application\obj\Debug\net8.0\POS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pppaw\source\repos\POS\POS.Application\obj\Debug\net8.0\POS.Application.AssemblyInfoInputs.cache
+C:\Users\pppaw\source\repos\POS\POS.Application\obj\Debug\net8.0\POS.Application.AssemblyInfo.cs
+C:\Users\pppaw\source\repos\POS\POS.Application\obj\Debug\net8.0\POS.Application.csproj.CoreCompileInputs.cache
+C:\Users\pppaw\source\repos\POS\POS.Application\obj\Debug\net8.0\POS.Application.dll
+C:\Users\pppaw\source\repos\POS\POS.Application\obj\Debug\net8.0\refint\POS.Application.dll
+C:\Users\pppaw\source\repos\POS\POS.Application\obj\Debug\net8.0\POS.Application.pdb
+C:\Users\pppaw\source\repos\POS\POS.Application\obj\Debug\net8.0\ref\POS.Application.dll

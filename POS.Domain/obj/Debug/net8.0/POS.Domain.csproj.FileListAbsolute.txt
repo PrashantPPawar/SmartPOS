@@ -1,0 +1,11 @@
+C:\Users\pppaw\source\repos\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.deps.json
+C:\Users\pppaw\source\repos\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.dll
+C:\Users\pppaw\source\repos\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.pdb
+C:\Users\pppaw\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pppaw\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Users\pppaw\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.AssemblyInfo.cs
+C:\Users\pppaw\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pppaw\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.dll
+C:\Users\pppaw\source\repos\POS\POS.Domain\obj\Debug\net8.0\refint\POS.Domain.dll
+C:\Users\pppaw\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.pdb
+C:\Users\pppaw\source\repos\POS\POS.Domain\obj\Debug\net8.0\ref\POS.Domain.dll
