@@ -58,7 +58,7 @@ builder.Services.AddAuthentication("Bearer")
 
 builder.Services.AddDbContext<POS.API.Data.AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+var corsOrigins = builder.Configuration.GetSection("CorsOrigins").Get<string[]>();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular",
@@ -67,7 +67,10 @@ builder.Services.AddCors(options =>
             //policy.WithOrigins("http://localhost:4200")
             //      .AllowAnyHeader()
             //      .AllowAnyMethod();
-            policy.WithOrigins("http://localhost:81")
+            //policy.WithOrigins("http://localhost:81")
+            //      .AllowAnyHeader()
+            //      .AllowAnyMethod();
+            policy.WithOrigins(corsOrigins)
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
